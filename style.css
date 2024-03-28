@@ -602,13 +602,11 @@ a, a:link, a:visited {
 	background: #e4e5e6;
 
 }
-.superHero1 {background-image: url(/image/1.webp);  }
-.superHero2 {background: url(/image/2.webp);   background-size: cover;}
-.superHero3 {background: url(/image/3.webp);   background-size: cover;}
-.superHero4 {background: url(/image/4.webp);  background-size: cover;}
-.superHero5 {background: url(/image/5.webp); ; background-size: cover;}
-.superHero6 {background: url(img/superhero6.jpg);  background-size: cover;}
-.superHero7 {background: url(img/superhero7.jpg);  background-size: cover;}
+.superHero1 {background-image: url(1.webp);  }
+.superHero2 {background: url(2.webp);   background-size: cover;}
+.superHero3 {background: url(3.webp);   background-size: cover;}
+.superHero4 {background: url(4.webp);  background-size: cover;}
+.superHero5 {background: url(5.webp); ; background-size: cover;}
 
 :root {
     --container: 112rem;
